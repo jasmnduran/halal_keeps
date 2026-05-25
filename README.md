@@ -1,6 +1,6 @@
 # Halal Keeps — Halal Certification Portal
 
-**Halal Institute of Development Philippines (HID Philippines)**  
+**Halal Keeps**  
 A full-stack web application that digitizes the complete halal certification lifecycle — from a business owner's initial application through auditing, laboratory testing, committee review, and final certificate issuance.
 
 ---
@@ -24,7 +24,7 @@ A full-stack web application that digitizes the complete halal certification lif
 
 ## Overview
 
-Halal Keeps is a role-based PHP web application built for the Halal Institute of Development Philippines. It manages the end-to-end halal certification process for food businesses (restaurants, manufacturers), including:
+Halal Keeps is a role-based PHP web application built for the Halal Certification. It manages the end-to-end halal certification process for food businesses (restaurants, manufacturers), including:
 
 - Digital application submission and document management
 - Multi-stage evaluation and inspection workflows
